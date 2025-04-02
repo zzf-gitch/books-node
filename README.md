@@ -1,2 +1,6 @@
-#启动
+# books-node
+
+## Project setup
+```
 node server.js
+```
