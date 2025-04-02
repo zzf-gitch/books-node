@@ -1,0 +1,20 @@
+[
+  {
+    "id": "550e8400-e29b-41d4-a716-446655440000",
+    "title": "JavaScript高级程序设计",
+    "author": "Nicholas C. Zakas",
+    "price": "99.99"
+  },
+  {
+    "id": "3f7d5e80-2d8f-4b47-a72e-1c2d3e4f5a6b",
+    "title": "Node.js设计模式",
+    "author": "Mario Casciaro",
+    "price": "50"
+  },
+  {
+    "id": "e6fec9c1-3e4e-4980-9519-9326c77a2c1a",
+    "title": "vue3+vite底层逻辑以及使用手册",
+    "author": "张卓飞",
+    "price": "9999999999999.99"
+  }
+]
